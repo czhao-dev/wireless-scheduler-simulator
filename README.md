@@ -75,4 +75,4 @@ python simulation.py
 
 ## License
 
-This project is released under the Apache 2.0 License.
+This project is released for academic and research purposes. Please credit the source if used in publications or derivative works.
